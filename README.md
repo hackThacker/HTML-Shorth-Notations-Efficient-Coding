@@ -1,5 +1,7 @@
 # HTML-Shorth-Notations-Efficient-Coding
 
+To download the PDF cheatsheet, click [here](https://github.com/hackThacker/HTML-Shorth-Notations-Efficient-Coding/blob/main/cheatsheet.pdf).
+
 
 1. ```markdown
    div.box$*4>span.item$*3
@@ -251,5 +253,5 @@
     ```
     **Produces two carousels (`<div>`), each containing four slides (`<div>`), each slide containing an image (`<img>`) and a caption paragraph (`<p>`).**
 
-  ** Emmet expressions into vscode there is extension  Emmet download it if you dont have **
-  ** If you understand this this makes your producitivy  of writing of emmet code also and learn also from it **
+     **Emmet expressions into vscode there is extension  Emmet download it if you dont have**
+     **If you understand this this makes your producitivy  of writing of emmet code also and learn also from it**
